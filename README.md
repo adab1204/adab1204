@@ -1,5 +1,5 @@
 # 💫 About Me:
-'m Adab — a CS student who ships real products, not just assignments.<br>I build full-stack applications powered by AI, with a focus on things that actually work in production: clean architecture, real auth, live payments, and deployed code. My projects span real estate SaaS, financial advisory tools, and NLP-driven applications — all built from scratch, all solving real problems.<br>I care about the commercial layer as much as the code. Good software isn't just functional — it's useful, scalable, and built with intent.<br>Currently in my pre-final year at UIET Panjab University. Always building, always open to what's next.
+I'm Adab — a CS student who ships real products, not just assignments.<br>I build full-stack applications powered by AI, with a focus on things that actually work in production: clean architecture, real auth, live payments, and deployed code. My projects span real estate SaaS, financial advisory tools, and NLP-driven applications — all built from scratch, all solving real problems.<br>I care about the commercial layer as much as the code. Good software isn't just functional — it's useful, scalable, and built with intent.<br>Currently in my pre-final year at UIET Panjab University. Always building, always open to what's next.
 
 
 ## 🌐 Socials:
